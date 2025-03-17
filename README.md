@@ -42,15 +42,16 @@ This project is an automated email responder written in Python. It connects to a
    ```bash
    pip install -r requirements.txt
 
-📂 Guff AutoResponder/
- ├── 📄 main.py              # Main script for the autoresponder
- ├── 📄 requirements.txt     # Dependencies
- ├── 📄 .gitignore           # Ignored files list
- ├── 📄 autoresponder.log    # Log file (auto-generated)
- ├── 📄 response_history.json # Stores processed emails(auto-generated)
- ├── 📄 LICENSE              # License file
- ├── 📄 README.md            # This file
-
+## 📂 Project Structure  
+```bash
+├── 📄 main.py              # Main script for the autoresponder
+├── 📄 requirements.txt     # Dependencies
+├── 📄 .gitignore           # Ignored files list
+├── 📄 autoresponder.log    # Log file (auto-generated)
+├── 📄 response_history.json # Stores processed emails(auto-generated)
+├── 📄 LICENSE              # License file
+├── 📄 README.md            # This file
+```
 
 ## Contact
 - **Name:** Stanislav Garipov
