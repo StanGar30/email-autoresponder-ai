@@ -55,7 +55,6 @@ This project is an automated email responder written in Python. It connects to a
 
 ## Contact
 - **Name:** Stanislav Garipov
-- **Email:** stanislavgaripov93@gmail.com
 - [GitHub Profile](https://github.com/StanGar30)
 
 ## License
